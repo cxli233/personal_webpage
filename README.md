@@ -20,8 +20,8 @@
 
 * Bsc. Biochemistry and Molecular Biology with minor in Plant Biology  
 University of California, Davis, 2015
-* Phd Plant Biology
-University of California, Davis, (expected summer 2021)  
+* Phd Plant Biology    
+University of California, Davis, expected summer 2021     
 
 ## Publications <a name="Publications"></a>
 

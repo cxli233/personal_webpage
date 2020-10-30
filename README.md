@@ -34,7 +34,7 @@ University of California, Davis, (expected summer 2021)
 * Li C, Xu H, Russell SD, Sundaresan V. Step-by-step protocols for rice gamete isolation. Plant reproduction. 2019 Mar 7;32(1):5-13.    
 [https://link.springer.com/article/10.1007/s00497-019-00363-y](https://link.springer.com/article/10.1007/s00497-019-00363-y)  
 * Matand, K., Shoemake, M. & *Li, C*. High frequency in vitro regeneration of adventitious shoots in daylilies (Hemerocallis sp) stem tissue using thidiazuron. BMC Plant Biol 20, 31   
-[https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2243-7](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2243-7) **Product of an outreach efford.** 
+[https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2243-7](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2243-7) **Product of an outreach effort.** 
 
 ## Preprints <a name="Preprints"></a>
 

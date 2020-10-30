@@ -4,7 +4,7 @@
 
 1. [Contact Info](#Contact_Info)
 2. [Education](#Education)
-3. [Another paragraph](#Publications)
+3. [Publications](#Publications)
 4. [Experiences](#Experiences)
 5. [Awards](#Awards)
 6. [Outreach and volunteering](#Outreach_volunteering)

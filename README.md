@@ -26,7 +26,7 @@ University of California, Davis, (expected summer 2021)
 ## Publications <a name="Publications"></a>
 
 * Li C, Xu H, Fu FF, Russell SD, Sundaresan V, Gent JI. Genome-wide redistribution of 24-nt siRNAs in rice gametes. Genome Research. 2020 Jan 2:gr-253674.  
-[Full Text](https://genome.cshlp.org/content/early/2020/01/30/gr.253674.119.full.pdf) **Disertation Chapter** 
+[Full Text](https://genome.cshlp.org/content/early/2020/01/30/gr.253674.119.full.pdf) **Dissertation Chapter** 
 * Anderson, S.N., Johnson, C.S., Chesnut, J., Jones, D.S., Khanday, I., Woodhouse, M., *Li, C*., Conrad, L.J., Russell, S.D. and Sundaresan, V., 2017. The Zygotic Transition Is Initiated in Unicellular Plant Zygotes with Asymmetric Activation of Parental Genomes. Developmental cell, 43(3), pp.349-358. 
 [https://doi.org/10.1016/j.devcel.2017.10.005](https://doi.org/10.1016/j.devcel.2017.10.005)  
 * Johnson, C., Conrad, L. J., Patel, R., Anderson, S., *Li, C*., Pereira, A., & Sundaresan, V. (2018). Reproductive Long Intergenic Noncoding RNAs Exhibit Male Gamete Specificity and Polycomb Repressive Complex 2-Mediated Repression. Plant physiology, 177(3), 1198-1217.   
@@ -39,7 +39,7 @@ University of California, Davis, (expected summer 2021)
 ## Preprints <a name="Preprints"></a>
 
 * Li, C., Gent, J.I., Xu, H., Fu, H., Russell, S.D. and Sundaresan, V., 2020. Resetting of 24-nt siRNA landscape is initiated in the unicellular zygote in rice. bioRxiv.  
-[https://doi.org/10.1101/2020.08.31.275958](https://doi.org/10.1101/2020.08.31.275958) **Disertation Chapter**
+[https://doi.org/10.1101/2020.08.31.275958](https://doi.org/10.1101/2020.08.31.275958) **Dissertation Chapter**
 
 ## Experiences <a name="Experiences"></a>
 

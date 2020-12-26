@@ -45,7 +45,11 @@ University of California, Davis, expected summer 2021
 
 * Graduate student researcher, Sundaresan Lab, Department of Plant Biology, UC Davis  
 April 2016 - present  
-Small RNA transcriptomics & epigenetics of zygotic transition in rice
+Small RNA transcriptomics & epigenetics of zygotic transition in rice    
+
+* Teaching assistant, Department of Plant Biology, UC Davis  
+Jan 2021 - March 2021
+TA for Plant & Development, lecture + discussions. (PLB112, 112D)      
 
 * Teaching assistant, Department of Plant Biology, UC Davis  
 April 2020 - June 2020

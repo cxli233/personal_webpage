@@ -38,7 +38,7 @@ University of California, Davis, expected summer 2021
 
 ## Preprints <a name="Preprints"></a>
 
-* Li, C., Gent, J.I., Xu, H., Fu, H., Russell, S.D. and Sundaresan, V., 2020. Resetting of 24-nt siRNA landscape is initiated in the unicellular zygote in rice. bioRxiv.  
+* Li, C., Gent, J.I., Xu, H., Fu, H., Russell, S.D. and Sundaresan, V., 2021. Resetting of 24-nt siRNA landscape is initiated before the first zygotic division in rice. bioRxiv.  
 [https://doi.org/10.1101/2020.08.31.275958](https://doi.org/10.1101/2020.08.31.275958) **Dissertation Chapter**
 
 ## Experiences <a name="Experiences"></a>
@@ -88,6 +88,9 @@ Greenhouse maintenance
 
 * Mentor for undergraduate researchers, Oct 2017 - present  
 Training undergrads in the Sundar lab on molecular biology techniques, including but not limited to DNA/RNA extraction, PCR, gel electrophoresis, molecular cloning, fluorescence microscopy, protoplasting and rice genetics. During the COVID-19 pandemic, I developed an online R learning project with undergrads in the Sundar lab, which covers the basics of data visualization, ANOVA and regression [(GitHub)](https://github.com/cxli233/Online_R_learning).  
+
+* Student representative on Admission Committee, UC Davis, Plant Biology Grad Group, 2020 - 2021
+Organized meetings for the student subcommittee to draft a holistic review rubric for admission. The holicstic review rubric was used for the Dec 2020 admission cycle. Reviewed applications for the 2020 admission cycle. 
 
 * Mentor for visiting faculty, June - July 2019  
 As part of an NSF-funded outreach program, I trained Dr. Kanyand Matand, from Langston University (an HBCU in Oklahoma) hands-on techniques on PCR primer design, DNA extraction, RNA extraction, reverse transcription, PCR optimization, semi-quantitative RT-PCR and image analysis using imageJ. I also gave instructions on 1) real time qPCR, 2) R programming, 3) data visualization and 4) statistical inference using Tukey tests. With this outreach effort, a publication was produced [Matand et al. 2020](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2243-7).  
